@@ -1,0 +1,58 @@
+.card{
+    width:400px;
+    font-family: cursive,arial,sans-serif;
+    padding:30px;
+    box-sizing: border-box;
+    background-color: aqua;
+    display: inline-block;
+    margin:80px,auto;
+    border-radius: 40px;
+
+}
+.wrap{
+    
+    width: fit-content;
+
+}
+.card a{
+    text-decoration: none;
+    background-color: black;
+    color: aliceblue;
+    display: inline-block;
+    padding:15px 20px;
+
+}
+.part1{
+    background-color: brown;
+    background-image: url(../images/image-1.jpg)
+    
+}
+.part2{
+    background-image: url(../images/image-2.jpg);
+}
+.part3{
+    background-image: url(../images/image-3.jpg);
+    color: aliceblue;
+}
+.part4{
+    background-image: url(../images/image-4.jpg) ;
+}
+.part5{
+    background-image: url(../images/image-5.jpg);
+}
+
+.part6{
+    background-image: url(../images/image-6.jpg);
+}
+.part7{
+    background-image: url(../images/image-7.jpg);
+    color: aqua;
+}
+
+.part8{
+    background-image: url(../images/image-8.jpg);
+}
+.part9{
+    background-image: url(../images/image-9.jpg);
+    color: aqua;
+}
